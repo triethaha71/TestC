@@ -1,0 +1,9 @@
+D:\Viusal Studio\Bai_3\Bai_3\obj\Debug\Bai_3.csproj.AssemblyReference.cache
+D:\Viusal Studio\Bai_3\Bai_3\obj\Debug\Bai_3.csproj.CoreCompileInputs.cache
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\obj\Debug\Bai_3.csproj.AssemblyReference.cache
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\obj\Debug\Bai_3.csproj.CoreCompileInputs.cache
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\bin\Debug\Bai_3.exe.config
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\bin\Debug\Bai_3.exe
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\bin\Debug\Bai_3.pdb
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\obj\Debug\Bai_3.exe
+C:\Users\LEMIN\source\repos\Bai_3\Bai_3\obj\Debug\Bai_3.pdb
